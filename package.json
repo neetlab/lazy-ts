@@ -1,0 +1,16 @@
+{
+  "name": "lazy-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/neetbox/lazy-ts.git",
+  "author": "Ryo Igarashi <n33t5hin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fp-ts": "^2.9.0",
+    "fp-ts-rxjs": "^0.6.11",
+    "monocle-ts": "^2.3.3",
+    "newtype-ts": "^0.3.4",
+    "rxjs": "^6.6.3",
+    "typescript": "^4.1.2"
+  }
+}
